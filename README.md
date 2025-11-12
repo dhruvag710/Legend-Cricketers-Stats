@@ -1,5 +1,5 @@
-# 🏏Legend Cricketers Stats🏏
-A repo containing stats of our Indian Cricket Legends 🏏
+# Legend Cricketers Stats🏏
+A repo containing stats of our Indian Cricket Legends 
 
 # About
 This project stores and manages cricket stats of top Indian players using MySQL.
