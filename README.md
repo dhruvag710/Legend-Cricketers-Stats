@@ -1,4 +1,4 @@
-# Legend-Cricketers-Stats
+# 🏏Legend Cricketers Stats🏏
 A repo containing stats of our Indian Cricket Legends 🏏
 
 # About
